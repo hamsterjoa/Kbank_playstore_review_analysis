@@ -16,7 +16,7 @@
 - Parsing 한 html 데이터 저장(`dataset/data_html.html`)
 - 수집한 데이터는 데이터프레임 형태로 포맷팅(`dataset/review_dataset.csv`)
 
-#### 전체 파일구조
+### 전체 파일구조
 ``` bash
 ├─Kbank_playstore_review_crawler
 │ README.md
