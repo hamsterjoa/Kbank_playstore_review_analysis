@@ -18,11 +18,11 @@
 
 ### (1) 전체 파일구조
 ``` bash
-├─playstore-review-crawler
+├─Kbank_playstore_review_crawler
 │ README.md
 │ chromedriver
 │  ├─src
-│  │      crawler.ipynb
+│  │      Kbank_App.ipynb
 │  └─dataset
 │         review_dataset.csv
 │         data_html.html
