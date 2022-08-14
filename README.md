@@ -5,6 +5,8 @@
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 - 참고: https://heytech.tistory.com/293
+- 참고: https://undeadkwandoll.tistory.com/3
+- 참고: https://github.com/Jimin980921/Text_mining
 
 ## 1. 2주차: 앱 리뷰 크롤링을 통한 데이터 수집
 - App 사용자 리뷰 데이터 수집
@@ -15,6 +17,9 @@
 
 - Parsing 한 html 데이터 저장(`dataset/data_html.html`)
 - 수집한 데이터는 데이터프레임 형태로 포맷팅(`dataset/review_dataset.csv`)
+
+## 2. 3주차: 텍스트 데이터 전처리
+- 수집한 리뷰 데이터의 텍스트 전처리
 
 ### 전체 파일구조
 ``` bash
