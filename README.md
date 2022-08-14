@@ -22,7 +22,7 @@
 │ README.md
 │ chromedriver
 │  ├─src
-│   ├──crawling
+│  ├──crawling
 │  │      Kbank_App_review.ipynb
 │  └─dataset
 │         review_dataset.csv
