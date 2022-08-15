@@ -9,7 +9,7 @@
 - 참고: https://github.com/Jimin980921/Text_mining
 
 ## 1. 2주차: 앱 리뷰 크롤링을 통한 데이터 수집
-- App 사용자 리뷰 데이터 수집('src/Kbank_App_review.ipynb')
+- App 사용자 리뷰 데이터 수집(`src/Kbank_App_review.ipynb`)
   - 리뷰 등록일
   - 작성자 닉네임
   - 리뷰 평점
@@ -19,7 +19,7 @@
 - 수집한 데이터는 데이터프레임 형태로 포맷팅(`dataset/review_dataset.csv`)
 
 ## 2. 3주차: 텍스트 데이터 전처리
-- 수집한 리뷰 데이터의 텍스트 전처리('src/Kbank_App_review_preprocessing.ipynb')
+- 수집한 리뷰 데이터의 텍스트 전처리(`src/Kbank_App_review_preprocessing.ipynb`)
 - 감성분석을 위한 test, train set 분리
 
 ### 전체 파일구조
