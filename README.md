@@ -5,9 +5,7 @@
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 - 참고: https://heytech.tistory.com/293
-- 참고: https://undeadkwandoll.tistory.com/3
-- 참고: https://github.com/Jimin980921/Text_mining
-- 참고: https://dacon.io/competitions/official/235938/codeshare/5542?page=2&dtype=recent
+- 참고: https://wikidocs.net/94748
 
 ## 1. 2주차: 앱 리뷰 크롤링을 통한 데이터 수집
 - App 사용자 리뷰 데이터 수집(`src/Kbank_App_review.ipynb`)
