@@ -26,7 +26,6 @@
 - BiLSTM
 - Logistic Regression
 
-
 ### 전체 파일구조
 ``` bash
 ├─Kbank_playstore_review_crawler
