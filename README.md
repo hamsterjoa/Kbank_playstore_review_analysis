@@ -7,8 +7,8 @@
 - 참고: https://heytech.tistory.com/293
 - 참고: https://wikidocs.net/94748
 
-## 1. 2주차: 앱 리뷰 크롤링을 통한 데이터 수집
-- App 사용자 리뷰 데이터 수집(`src/Kbank_App_review.ipynb`)
+## 2주차: 앱 리뷰 크롤링을 통한 데이터 수집
+- App 사용자 리뷰 데이터 수집
   - 리뷰 등록일
   - 작성자 닉네임
   - 리뷰 평점
@@ -17,9 +17,14 @@
 - Parsing 한 html 데이터 저장(`dataset/data_html.html`)
 - 수집한 데이터는 데이터프레임 형태로 포맷팅(`dataset/review_dataset.csv`)
 
-## 2. 3주차: 텍스트 데이터 전처리
-- 수집한 리뷰 데이터의 텍스트 전처리(`src/Kbank_App_review_preprocessing.ipynb`)
+## 3주차: 텍스트 데이터 전처리
+- 수집한 리뷰 데이터의 텍스트 전처리
 - 감성분석을 위한 test, train set 분리
+
+## 4주차: 텍스트 감성분석
+- GRU
+- BiLSTM
+- Logistic Regression
 
 ### 전체 파일구조
 ``` bash
@@ -29,6 +34,8 @@
 │  ├─src
 │  │      Kbank_App_review.ipynb
 │  │      Kbank_App_review_preprocessing.ipynb
+│  │      sentiment_by_RNN.ipynb
+│  │      sentiment_by_LogisticRegression.ipynb
 │  └─dataset
 │         review_dataset.csv
 │         data_html.html
