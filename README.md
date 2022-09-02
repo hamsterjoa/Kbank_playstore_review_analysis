@@ -36,6 +36,7 @@
 │  │      Kbank_App_review_preprocessing.ipynb
 │  │      sentiment_by_RNN.ipynb
 │  │      sentiment_by_LogisticRegression.ipynb
+│  │      sentiment_visualization.ipynb
 │  └─dataset
 │         review_dataset.csv
 │         data_html.html
