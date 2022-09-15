@@ -26,6 +26,8 @@
 - BiLSTM
 - Logistic Regression
 
+## 5주차: 긍/부정 텍스트 데이터 분석 및 시각화
+
 ### 전체 파일구조
 ``` bash
 ├─Kbank_playstore_review_crawler
